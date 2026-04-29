@@ -1,6 +1,5 @@
 # Motor Fault Diagnosis Project
 
-### English Description
 This project focuses on the detection and classification of motor faults (electrical and mechanical) using diagnostic signal fusion. By analyzing current and rotational data, the system identifies the healthy state of the unit as well as various types of induced damages. The analysis includes both the initial model development phase and subsequent verification on independent measurement sets.
 
 ---
