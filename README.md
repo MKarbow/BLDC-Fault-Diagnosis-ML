@@ -7,8 +7,8 @@ This project focuses on the detection and classification of motor faults (electr
 ### Project Structure
 ```text
 .
-├── Motor_Fault_Classification_Stacking_SHAP.ipynb  # Main analysis and modeling
-├── Motor_Fault_Validation_and_Stability.ipynb      # Model validation on new data
+├── Motor-Fault-Stacking.ipynb  # Main analysis and modeling
+├── Diagnostic-Verify.ipynb      # Model validation on new data
 └── data/                                           # Directory for CSV datasets
     ├── motors.csv                                  # Primary training dataset
     ├── Faulty-*.csv                                # New measurements (Faulty)
