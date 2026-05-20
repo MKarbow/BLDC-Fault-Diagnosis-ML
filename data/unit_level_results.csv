@@ -1,0 +1,11 @@
+Unit,Condition,Prediction,Interpretation,Confidence
+Faulty-1-zipcord.csv,PM Fault + Imbalance,Mechanical Fault,Mechanical dominance,0.7283158961368265
+Faulty-1.csv,PM Fault,Mechanical Fault,Cross-domain mechanical signature,0.75239896541452
+Faulty-2-zipcord.csv,PM Fault + Imbalance,Healthy State,Unexpected,0.5290675840370321
+Faulty-2.csv,PM Fault,Healthy State,Unexpected,0.4934728724676502
+Faulty-3-zipcord.csv,PM Fault + Imbalance,Electrical Fault,Electrical dominance,0.8550487281829684
+Faulty-3.csv,PM Fault,Electrical Fault,Expected,0.8385786261116499
+Healthy-1-zipcord.csv,Healthy + Imbalance,Mechanical Fault,Expected,0.7324310165586699
+Healthy-1.csv,Healthy Motor,Healthy State,Expected,0.6164200697412537
+Healthy-2-zipcord.csv,Healthy + Imbalance,Mechanical Fault,Expected,0.718311936298034
+Healthy-2.csv,Healthy Motor,Mechanical Fault,Unexpected,0.6021594037580507

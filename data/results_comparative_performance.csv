@@ -1,0 +1,11 @@
+Model,Variant,F1,BACC
+Logistic Regression,PCA,0.769 ± 0.052,0.771 ± 0.050
+Logistic Regression,Raw,0.902 ± 0.067,0.903 ± 0.067
+Random Forest,PCA,0.823 ± 0.117,0.827 ± 0.112
+Random Forest,Raw,0.934 ± 0.039,0.935 ± 0.037
+SVM,PCA,0.802 ± 0.066,0.806 ± 0.064
+SVM,Raw,0.884 ± 0.032,0.885 ± 0.031
+Stacking Ensemble,PCA,0.829 ± 0.101,0.832 ± 0.098
+Stacking Ensemble,Raw,0.934 ± 0.038,0.934 ± 0.038
+XGBoost,PCA,0.824 ± 0.055,0.828 ± 0.055
+XGBoost,Raw,0.926 ± 0.051,0.929 ± 0.048

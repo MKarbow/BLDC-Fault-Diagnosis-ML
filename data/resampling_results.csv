@@ -1,0 +1,11 @@
+File Identifier,Original FS,Resampled FS,Original State,Resampled State,Prediction Stable,Original Conf.,Resampled Conf.,Delta Conf.,Mean Abs Prob Shift
+Faulty-1-zipcord.csv,20 kHz,10 kHz,Mechanical Fault,Mechanical Fault,True,0.7283158961368265,0.703272393149991,-0.025043502986835442,0.0129
+Faulty-1.csv,20 kHz,10 kHz,Mechanical Fault,Mechanical Fault,True,0.75239896541452,0.7150047644842109,-0.037394200930309096,0.0187
+Faulty-2-zipcord.csv,20 kHz,10 kHz,Healthy State,Healthy State,True,0.5290675840370321,0.530848543251403,0.0017809592143708253,0.0041
+Faulty-2.csv,20 kHz,10 kHz,Healthy State,Healthy State,True,0.4934728724676502,0.49528002368396423,0.001807151216314029,0.0056
+Faulty-3-zipcord.csv,20 kHz,10 kHz,Electrical Fault,Electrical Fault,True,0.8550487281829684,0.8989466903595479,0.043897962176579486,0.0219
+Faulty-3.csv,20 kHz,10 kHz,Electrical Fault,Electrical Fault,True,0.8385786261116499,0.9038639541421928,0.06528532803054288,0.0326
+Healthy-1-zipcord.csv,20 kHz,10 kHz,Mechanical Fault,Mechanical Fault,True,0.7324310165586699,0.6942952344556738,-0.038135782102996174,0.0285
+Healthy-1.csv,20 kHz,10 kHz,Healthy State,Healthy State,True,0.6164200697412537,0.5708254292520526,-0.045594640489201144,0.0265
+Healthy-2-zipcord.csv,20 kHz,10 kHz,Mechanical Fault,Mechanical Fault,True,0.718311936298034,0.7069714027692864,-0.011340533528747643,0.0057
+Healthy-2.csv,20 kHz,10 kHz,Mechanical Fault,Mechanical Fault,True,0.6021594037580507,0.5848365358360315,-0.017322867922019203,0.0101
